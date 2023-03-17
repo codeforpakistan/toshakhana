@@ -7,7 +7,7 @@ https://docs.google.com/spreadsheets/d/1BcityOQx93ldMWiKJ7qFiIDWu65iv6H-/edit?us
 
 This respository represents an effort to digitize the Toshakhana 2002-2023 records released by the Cabinet of Pakistan in March 2023. 
 
-Data contained in the document linked above has been digitally extracted using [Tabula](https://tabula.technology/), and then manually cleaned and tagged by hand. 
+Data contained in the document linked above has been digitally extracted using [Tabula](https://tabula.technology/), and then manually cleaned and tagged by hand. See the file [pdf-to-csv.ipynb](pdf-to-csv.ipynb) python notebook for how it is proecssed. 
 
 The primary focus of this effort was to ensure that each amount (assessed value and retention cost) is available as a numerical value, suitable for calculations. 
 
