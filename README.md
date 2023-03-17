@@ -1,9 +1,5 @@
 # Toshakhana 2002-2023
-Details of Toshakhana Gifts from 2002 onwards till to date
-
-## Data
-
-The final output of this repository is available as a Google Sheets files available online. The document is restricted to viewing and comments only to preserve its sanctity.
+Details of Toshakhana Gifts from 2002 onwards till to date is available as a Google Sheets files online. The document is restricted to viewing and comments only to preserve its sanctity.
 
 https://docs.google.com/spreadsheets/d/1BcityOQx93ldMWiKJ7qFiIDWu65iv6H-/edit?usp=sharing&ouid=109637457666764154501&rtpof=true&sd=true
 
@@ -11,7 +7,7 @@ https://docs.google.com/spreadsheets/d/1BcityOQx93ldMWiKJ7qFiIDWu65iv6H-/edit?us
 
 This respository represents an effort to digitize the Toshakhana 2002-2023 records released by the Cabinet of Pakistan in March 2023. 
 
-Data contained in this document has been digitally extracted using Tabula, and then manually cleaned and tagged by hand. 
+Data contained in the document linked above has been digitally extracted using Tabula, and then manually cleaned and tagged by hand. 
 
 The primary focus of this effort was to ensure that each amount (assessed value and retention cost) is available as a numerical value, suitable for calculations. 
 
